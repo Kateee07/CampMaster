@@ -33,8 +33,9 @@ Project is: no longer being worked on. The project was to be just an exercise an
 This project was inspired by the desire to create something new, completely from scratch.
 ## Contact
 Created by 
-- Przemyslaw Dawidowski - @zoluch 
-- Paweł Rutkowski - @pwrutkowski
-- Kasia Przybylska - @Kate007
+- Kasia Przybylska - @Kateee07
+- Przemyslaw Dawidowski - @davvvidy
+- Paweł Rutkowski - @pawelwrutkowski
+
 
 Feel free to contact us!
